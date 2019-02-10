@@ -1,4 +1,4 @@
-# mnist-residual-inception
+# MNIST Classification - Residual Blocks and Inception Modules
 Residual Block and Inception Module implementations of a Convolutional Neural Network for MNIST classification.
 
 This code is part of my IB Extended Essay on Computer Science.
